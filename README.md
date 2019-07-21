@@ -2,7 +2,7 @@
 
 This code lets you start with a base contract, and deploy owner contracts on top each with unique functions, creating a chain of owned contracts commanded at the top by a user address. 
 
-- Add to the chain to add functionality by the owner another contract
+- Add to the chain to add functionality by making the owner another contract
 
 - Remove from the top of the chain to remove functionality by making the owner your address
 
