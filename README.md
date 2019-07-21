@@ -2,11 +2,16 @@
 
 This code lets you start with a base contract, and deploy owner contracts on top each with unique functions, creating a chain of owned contracts commanded at the top by a user address. 
 
-Add to the chain to add functionality
+- Add to the chain to add functionality
 
-Remove from the top of the chain to remove functionality
+- Remove from the top of the chain to remove functionality
 
-Insert another chain at any level to change functionality. 
+- Insert another chain at any level to change functionality. 
+
+
+
+
+
 
 Step 1. Deploy BDUmembershipLedger contract
 
