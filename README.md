@@ -1,6 +1,6 @@
 # BDUmembershipLedger
 
-This code lets you start with a base contract, and deploy owner contracts on top each with unique functions, creating a chain of ownership commanded at the top by a user address. You can then create new chains and plug them in at any level. 
+This code lets you start with a base contract, and deploy owner contracts on top each with unique functions, creating a chain of ownership commanded at the top by a user address. You can then add to the chain or replace the whole chain above any chosen level. 
 
 Step 1. Deploy BDUmembershipLedger contract
 
